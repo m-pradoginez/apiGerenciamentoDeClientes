@@ -1,0 +1,12 @@
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\bin\Debug\net5.0\GerenciamentoDeClientes.Core.deps.json
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\bin\Debug\net5.0\GerenciamentoDeClientes.Core.dll
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\bin\Debug\net5.0\ref\GerenciamentoDeClientes.Core.dll
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\bin\Debug\net5.0\GerenciamentoDeClientes.Core.pdb
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\GerenciamentoDeClientes.Core.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\GerenciamentoDeClientes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\GerenciamentoDeClientes.Core.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\GerenciamentoDeClientes.Core.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\GerenciamentoDeClientes.Core.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\GerenciamentoDeClientes.Core.dll
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\ref\GerenciamentoDeClientes.Core.dll
+C:\Users\Pichau\source\repos\GerenciamentoDeClientes.API\GerenciamentoDeClientes.Core\obj\Debug\net5.0\GerenciamentoDeClientes.Core.pdb
