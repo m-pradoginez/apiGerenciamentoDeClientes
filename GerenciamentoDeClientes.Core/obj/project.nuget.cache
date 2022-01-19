@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yD2oH3A8BU41fEoqJ0HHP08dyInliOqKfBgNuwOO/NXV/xfilQSpXk+l20gQ8RoQxptVJ+a/LmYOWB+PqkHwkQ==",
+  "dgSpecHash": "/X5sjwQbStMPHMYes6iATC328hqSahtiNzrSoctz6ZNsrdGxjDdocebVPeZwipTJm2AsBWgon/8Y2W5VgkKtgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\GerenciamentoDeClientes.API\\GerenciamentoDeClientes.Core\\GerenciamentoDeClientes.Core.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\apiGerenciamentoDeClientes\\GerenciamentoDeClientes.Core\\GerenciamentoDeClientes.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\GerenciamentoDeClientes.API\\GerenciamentoDeClientes.Core\\GerenciamentoDeClientes.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\apiGerenciamentoDeClientes\\GerenciamentoDeClientes.Core\\GerenciamentoDeClientes.Core.csproj",
       "projectName": "GerenciamentoDeClientes.Core",
-      "projectPath": "C:\\Users\\Pichau\\source\\repos\\GerenciamentoDeClientes.API\\GerenciamentoDeClientes.Core\\GerenciamentoDeClientes.Core.csproj",
+      "projectPath": "C:\\Users\\Pichau\\Desktop\\apiGerenciamentoDeClientes\\GerenciamentoDeClientes.Core\\GerenciamentoDeClientes.Core.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\source\\repos\\GerenciamentoDeClientes.API\\GerenciamentoDeClientes.Core\\obj\\",
+      "outputPath": "C:\\Users\\Pichau\\Desktop\\apiGerenciamentoDeClientes\\GerenciamentoDeClientes.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",

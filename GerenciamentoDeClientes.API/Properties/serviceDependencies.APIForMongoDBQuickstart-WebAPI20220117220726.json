@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/apiManagementClientes/apis/GerenciamentoDeClientesAPI",
+      "type": "apis.azure"
+    },
+    "cosmosdb1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.DocumentDB/databaseAccounts/azure-cosmos-db-instance-api-clientes",
+      "type": "cosmosdb.azure",
+      "connectionId": "MongoConnectionString"
+    }
+  }
+}

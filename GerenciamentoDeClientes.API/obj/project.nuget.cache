@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mMA1B7ZdzKzVTBuw+EOYkThJZhS7u+hc0aSL84r0qE/yfx+HlpKHa4FcKu82fi9fC6P6y/ORduzTgfez6NlIfw==",
+  "dgSpecHash": "B6rGmBDBCOC+vGeMWoYJ8Ijq0H2vO0jKVWGFgI+2EyV2X/FtilMvJS6/fCyWw5EKRthxPG7hPe361250N67rMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\GerenciamentoDeClientes.API\\GerenciamentoDeClientes.API\\GerenciamentoDeClientes.API.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\apiGerenciamentoDeClientes\\GerenciamentoDeClientes.API\\GerenciamentoDeClientes.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\azure.core\\1.3.0\\azure.core.1.3.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
